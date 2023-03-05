@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" type="text/css" href={{ site.baseurl }}/css/main.css>
+    <meta name="viewport"  content="width=device-width, initial-scale=1">
+  </head>
+
+
+  <body>
+    <header>
+      {% include navbar.html %}
+      <h1>Web Programming A-L 2023</h1>
+      <div id="logo">
+        <a href="http://www.dieei.unict.it/corsi/l-8-inf">
+          <img src="/web-programming-course/imgs/logo.png" alt="logo">
+        </a>
+      </div>
+    </header>
+    
+    
+    <div class="container">
+
+      {{ content }}
+
+    </div>
+  
+    <footer>
+      <div class="footer">
+        <p>2023 - Built by <a href="http://www.perceivelab.com/index">the PeRCeiVe Lab</a></p>
+      </div>
+    </footer>
+  </body>
+
+</html>
