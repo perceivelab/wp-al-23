@@ -51,5 +51,6 @@ La roadmap e' provvisoria e puo' subire variazioni.
 # STAFF
 
 - *[Simone Palazzo](mailto:simone.palazzo@unict.it)*
+- *[Matteo Pennisi](mailto:matteo.pennisi@phd.unict.it)*
 
 [404]: {{ site.baseurl }}/fallback
