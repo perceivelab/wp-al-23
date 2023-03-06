@@ -34,20 +34,6 @@ La roadmap è provvisoria e può subire variazioni.
 | HW1      | Sito Completo      | 20 aprile 2023 | 22 maggio 2023 |
 | HW2      | Porting HW1 in MVC | 11 maggio 2023 | 15 luglio 2023 |
 
-# VALUTAZIONE
-
-- Studenti che non frequentano il corso (o che sostengono l'esame senza la partecipazione agli HM):
-
-  - Sviluppo di un'applicazione web secondo le seguenti [specifiche](https://drive.google.com/file/d/108HxBicJ0u5Dils_82hDVs94bTGHVvOI/view?usp=sharing)
-
-- Studenti che frequentano il corso:
-
-| Elaborato     | Voto Finale   |
-| :--------     |    -------: |
-| 3 mini-homework (da svolgere singolarmente) | 10% |
-| 1 homework su PHP/JS e REST API(da svolgere singolarmente)    | 45%  |
-| 1 homework su LARAVEL (porting homework precedente in Laravel) | 45% |
-
 # STAFF
 
 - *[Simone Palazzo](mailto:simone.palazzo@unict.it)*
