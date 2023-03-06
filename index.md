@@ -20,18 +20,19 @@ Niente per ora...
 
 # ![](https://img.shields.io/badge/-7289DA?style=flat&logo=discord&logoColor=white) FORUM 
 {: #tag}
-Durante il corso si utilizzera', il canale Discord come spazio per discutere di tutti gli aspetti tecnici. Gli studenti pertanto dovranno iscriversi al canale al seguente [link](https://discord.gg/TjNDXYc5).
+Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli aspetti tecnici e **per gli avvisi**. Si consiglia vivamente l'iscrizione al server attraverso il seguente [link](https://discord.gg/EAac2Jme).
 
 # ROADMAP HOMEWORK
+
 La roadmap e' provvisoria e puo' subire variazioni.
 
 | Homework | Argomento          | Assegnazione    | Consegna           |
 | :-------:| ------------------ | --------------- | -------            |
-| MHW1     | HTML + CSS         | Marzo 24, 2022  | Aprile 02, 2022    |
-| MHW2     | Javascript         | Aprile 05, 2022 | Aprile 16, 2022    |
-| MHW3     | REST API           | Aprile 14, 2022 | Aprile 30, 2022    |
-| HW1      | Sito Completo      | Maggio 06, 2022 | Maggio 29, 2022    |
-| HW2      | Porting HW1 in MVC | Maggio 26, 2022 | Giugno 10-18, 2022 |
+| MHW1     | HTML + CSS         | 16 marzo 2023 | 3 aprile 2023 |
+| MHW2     | Javascript         | 28 marzo 2023 | 17 aprile 2023 |
+| MHW3     | REST API           | 11 aprile 2023 | 1 maggio 2023 |
+| HW1      | Sito Completo      | 20 aprile 2023 | 22 maggio 2023 |
+| HW2      | Porting HW1 in MVC | 11 maggio 2023 | 15 luglio 2023 |
 
 # VALUTAZIONE
 
@@ -51,4 +52,4 @@ La roadmap e' provvisoria e puo' subire variazioni.
 
 - *[Simone Palazzo](mailto:simone.palazzo@unict.it)*
 
-[404]: /wp-al-23/fallback
+[404]: {{ site.baseurl }}/fallback
