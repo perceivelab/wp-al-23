@@ -2,8 +2,7 @@
 layout: default
 ---
 
-### Benvenuti al corso di Web Programming A-L 2023.
-{: .welcome} 
+# INFO
 
 **Prerequisiti**: Conoscenza dei linguaggi di programmazione (C/Java)  
 
@@ -13,10 +12,6 @@ layout: default
 | Giovedì 17-20, D41 |
 
 **Ricevimento**: [Concordare via mail](#staff) 
-
-# AVVISI
-
-Niente per ora...
 
 # ![](https://img.shields.io/badge/-7289DA?style=flat&logo=discord&logoColor=white) FORUM 
 {: #tag}
@@ -34,7 +29,7 @@ La roadmap è provvisoria e può subire variazioni.
 | HW1      | Sito Completo      | 20 aprile 2023 | 22 maggio 2023 |
 | HW2      | Porting HW1 in MVC | 11 maggio 2023 | 15 luglio 2023 |
 
-# STAFF
+# CONTATTI
 
 - *[Simone Palazzo](mailto:simone.palazzo@unict.it)*
 - *[Matteo Pennisi](mailto:matteo.pennisi@phd.unict.it)*
