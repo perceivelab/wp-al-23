@@ -24,7 +24,7 @@ Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli a
 
 # ROADMAP HOMEWORK
 
-La roadmap e' provvisoria e puo' subire variazioni.
+La roadmap è provvisoria e può subire variazioni.
 
 | Homework | Argomento          | Assegnazione    | Consegna           |
 | :-------:| ------------------ | --------------- | -------            |
@@ -52,5 +52,3 @@ La roadmap e' provvisoria e puo' subire variazioni.
 
 - *[Simone Palazzo](mailto:simone.palazzo@unict.it)*
 - *[Matteo Pennisi](mailto:matteo.pennisi@phd.unict.it)*
-
-[404]: {{ site.baseurl }}/fallback

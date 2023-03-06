@@ -3,7 +3,6 @@ layout: page
 ---
 
 # LEZIONI
-Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del corso di web programming 2022.
 
 | Lezioni    | Argomento                                                       | Data            | Slides                          | Codice      |
 |------------|-----------------------------------------------------------------|-----------------|-------------------------------  |-------------|
@@ -29,5 +28,3 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 17  | Esercitazione Laravel                                          | 23 maggio 2023 | |
 | Lezione 18  | Seminario su Node.js                                           | 25 maggio 2023 | |
 | Lezione 19  | Seminario su Node.js                                           | 30 maggio 2023 | |
-
-[404]: {{ site.baseurl }}/fallback
