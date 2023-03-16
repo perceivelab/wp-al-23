@@ -28,7 +28,7 @@ Stabilite in dettaglio la disposizione delle sezioni del sito (header, menù di 
 
 ![](imgs/specs.png)
 
-E' richiesto l'uso delle seguenti proprietà CSS: `margin`, `padding`, `height` `position`, `border`, `border-radius`, `background-color`.
+È richiesto l'uso delle seguenti proprietà CSS: `margin`, `padding`, `height`, `position`, `border`, `border-radius`, `background-color`.
 
 ### 3. Caratteri, dimensioni e colori
 
