@@ -10,7 +10,7 @@ Per partecipare agli homework, è necessario [compilare questo form](https://for
 
 | Homework | Argomento          | Assegnazione    | Consegna       | Specifiche      |
 | :-------:| ------------------ | --------------- | ---------------|-----------------|
-| MHW1     | HTML + CSS         | 16 marzo 2023   | 27 aprile 2023 | [Link](mhw1) |
+| MHW1     | HTML + CSS         | 16 marzo 2023   | 27 marzo 2023  | [Link](mhw1) |
 | MHW2     | Javascript         | 28 marzo 2023   | 17 aprile 2023 | |
 | MHW3     | REST API           | 11 aprile 2023  | 1 maggio 2023  | |
 | HW1      | Sito Completo      | 20 aprile 2023  | 22 maggio 2023 | |
