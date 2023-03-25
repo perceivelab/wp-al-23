@@ -4,7 +4,9 @@ layout: page
 
 # HOMEWORK
 
-#### Stato di consegna degli homework (ultimo aggiornamento: 25-03-2023 21:18:54)
+#### Stato di consegna degli homework
+
+Ultimo aggiornamento: 25-03-2023 21:21:31
 
 | Matricola | MHW1 | 
 | :------: | :----: | 
