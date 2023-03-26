@@ -6,7 +6,7 @@ layout: page
 
 #### Stato di consegna degli homework
 
-Ultimo aggiornamento: 26-03-2023 13:00:23
+Ultimo aggiornamento: 26-03-2023 16:20:57
 
 | Matricola | MHW1 | 
 | :------: | :----: | 
@@ -30,7 +30,7 @@ Ultimo aggiornamento: 26-03-2023 13:00:23
 | 1000006757 | :heavy_check_mark: |
 | 1000007890 | :heavy_check_mark: |
 | 1000011314 | :x: |
-| 1000012104 | :x: |
+| 1000012104 | :heavy_check_mark: |
 | 1000012126 | :heavy_check_mark: |
 | 1000014446 | :heavy_check_mark: |
 | 1000014461 | :x: |
@@ -46,8 +46,8 @@ Ultimo aggiornamento: 26-03-2023 13:00:23
 | 1000014638 | :heavy_check_mark: |
 | 1000014654 | :heavy_check_mark: |
 | 1000014674 | :heavy_check_mark: |
-| 1000014688 | :x: |
-| 1000014719 | :x: |
+| 1000014688 | :heavy_check_mark: |
+| 1000014719 | :heavy_check_mark: |
 | 1000014731 | :heavy_check_mark: |
 | 1000014775 | :heavy_check_mark: |
 | 1000014793 | :heavy_check_mark: |
@@ -70,7 +70,7 @@ Ultimo aggiornamento: 26-03-2023 13:00:23
 | 1000015159 | :heavy_check_mark: |
 | 1000015187 | :x: |
 | 1000015204 | :heavy_check_mark: |
-| 1000015237 | :x: |
+| 1000015237 | :heavy_check_mark: |
 | 1000015248 | :heavy_check_mark: |
 | 1000015266 | :heavy_check_mark: |
 | 1000015308 | :heavy_check_mark: |
@@ -81,7 +81,7 @@ Ultimo aggiornamento: 26-03-2023 13:00:23
 | 1000015425 | :x: |
 | 1000015459 | :heavy_check_mark: |
 | 1000015488 | :x: |
-| 1000015514 | :x: |
+| 1000015514 | :heavy_check_mark: |
 | 1000015612 | :heavy_check_mark: |
 | 1000015752 | :x: |
 | 1000015803 | :heavy_check_mark: |
@@ -127,14 +127,14 @@ Ultimo aggiornamento: 26-03-2023 13:00:23
 | 1000018087 | :heavy_check_mark: |
 | 1000018782 | :heavy_check_mark: |
 | 1000020192 | :heavy_check_mark: |
-| 1000020277 | :x: |
+| 1000020277 | :heavy_check_mark: |
 | 1000022055 | :heavy_check_mark: |
 | 1000022201 | :heavy_check_mark: |
 | 1000022231 | :x: |
 | 1000023441 | :heavy_check_mark: |
 | 1000023832 | :x: |
 | 1000026796 | :x: |
-| 1000030219 | :x: |
+| 1000030219 | :heavy_check_mark: |
 | 1000041178 | :heavy_check_mark: |
 | 1000041276 | :x: |
 | 1000041279 | :heavy_check_mark: |
@@ -144,10 +144,10 @@ Ultimo aggiornamento: 26-03-2023 13:00:23
 | O46001942 | :x: |
 | O46002011 | :heavy_check_mark: |
 | O46002030 | :heavy_check_mark: |
-| O46002043 | :x: |
+| O46002043 | :heavy_check_mark: |
 | O46002075 | :heavy_check_mark: |
 | O46002096 | :heavy_check_mark: |
 | O46002116 | :x: |
 | O46002243 | :x: |
 | O46002318 | :x: |
-| o46000971 | :x: |
+| o46000971 | :heavy_check_mark: |
