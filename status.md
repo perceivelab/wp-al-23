@@ -6,7 +6,7 @@ layout: page
 
 #### Stato di consegna degli homework
 
-Ultimo aggiornamento: 26-03-2023 16:24:37
+Ultimo aggiornamento: 26-03-2023 16:55:54
 
 | Matricola | MHW1 | 
 | :------: | :----: | 
@@ -55,7 +55,7 @@ Ultimo aggiornamento: 26-03-2023 16:24:37
 | 1000014800 | :x: |
 | 1000014823 | :heavy_check_mark: |
 | 1000014826 | :x: |
-| 1000014831 | :x: |
+| 1000014831 | :heavy_check_mark: |
 | 1000014832 | :heavy_check_mark: |
 | 1000014836 | :heavy_check_mark: |
 | 1000014837 | :x: |
@@ -116,7 +116,7 @@ Ultimo aggiornamento: 26-03-2023 16:24:37
 | 1000016378 | :heavy_check_mark: |
 | 1000016379 | :x: |
 | 1000016405 | :x: |
-| 1000016482 | :x: |
+| 1000016482 | :heavy_check_mark: |
 | 1000016550 | :heavy_check_mark: |
 | 1000016648 | :heavy_check_mark: |
 | 1000016659 | :heavy_check_mark: |
@@ -124,7 +124,7 @@ Ultimo aggiornamento: 26-03-2023 16:24:37
 | 1000016688 | :x: |
 | 1000016746 | :heavy_check_mark: |
 | 1000017123 | :heavy_check_mark: |
-| 1000018059 | :x: |
+| 1000018059 | :heavy_check_mark: |
 | 1000018087 | :heavy_check_mark: |
 | 1000018782 | :heavy_check_mark: |
 | 1000020192 | :heavy_check_mark: |
@@ -135,21 +135,21 @@ Ultimo aggiornamento: 26-03-2023 16:24:37
 | 1000022231 | :x: |
 | 1000023441 | :heavy_check_mark: |
 | 1000023832 | :x: |
-| 1000026796 | :x: |
+| 1000026796 | :heavy_check_mark: |
 | 1000030219 | :heavy_check_mark: |
 | 1000041178 | :heavy_check_mark: |
 | 1000041276 | :x: |
 | 1000041279 | :heavy_check_mark: |
-| O46000781 | :x: |
+| O46000781 | :heavy_check_mark: |
 | O46001617 | :heavy_check_mark: |
 | O46001775 | :x: |
-| O46001942 | :x: |
+| O46001942 | :heavy_check_mark: |
 | O46002011 | :heavy_check_mark: |
 | O46002030 | :heavy_check_mark: |
 | O46002043 | :heavy_check_mark: |
 | O46002075 | :heavy_check_mark: |
 | O46002096 | :heavy_check_mark: |
 | O46002116 | :x: |
-| O46002243 | :x: |
+| O46002243 | :heavy_check_mark: |
 | O46002318 | :x: |
 | o46000971 | :heavy_check_mark: |
