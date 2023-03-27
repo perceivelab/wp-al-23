@@ -6,7 +6,7 @@ layout: page
 
 #### Stato di consegna degli homework
 
-Ultimo aggiornamento: 26-03-2023 20:13:13
+Ultimo aggiornamento: 27-03-2023 09:31:04
 
 | Matricola | MHW1 | 
 | :------: | :----: | 
@@ -31,17 +31,18 @@ Ultimo aggiornamento: 26-03-2023 20:13:13
 | 1000005160 | :heavy_check_mark: |
 | 1000006757 | :heavy_check_mark: |
 | 1000007890 | :heavy_check_mark: |
-| 1000011314 | :x: |
+| 1000011314 | :heavy_check_mark: |
 | 1000012104 | :heavy_check_mark: |
 | 1000012126 | :heavy_check_mark: |
 | 1000014446 | :heavy_check_mark: |
 | 1000014461 | :heavy_check_mark: |
 | 1000014469 | :heavy_check_mark: |
+| 1000014514 | :heavy_check_mark: |
 | 1000014523 | :heavy_check_mark: |
 | 1000014527 | :heavy_check_mark: |
 | 1000014536 | :heavy_check_mark: |
 | 1000014542 | :heavy_check_mark: |
-| 1000014560 | :x: |
+| 1000014560 | :heavy_check_mark: |
 | 1000014564 | :heavy_check_mark: |
 | 1000014567 | :heavy_check_mark: |
 | 1000014629 | :heavy_check_mark: |
@@ -56,11 +57,11 @@ Ultimo aggiornamento: 26-03-2023 20:13:13
 | 1000014793 | :heavy_check_mark: |
 | 1000014800 | :x: |
 | 1000014823 | :heavy_check_mark: |
-| 1000014826 | :x: |
+| 1000014826 | :heavy_check_mark: |
 | 1000014831 | :heavy_check_mark: |
 | 1000014832 | :heavy_check_mark: |
 | 1000014836 | :heavy_check_mark: |
-| 1000014837 | :x: |
+| 1000014837 | :heavy_check_mark: |
 | 1000014847 | :heavy_check_mark: |
 | 1000014935 | :heavy_check_mark: |
 | 1000014947 | :heavy_check_mark: |
@@ -69,7 +70,7 @@ Ultimo aggiornamento: 26-03-2023 20:13:13
 | 1000015037 | :heavy_check_mark: |
 | 1000015063 | :heavy_check_mark: |
 | 1000015111 | :heavy_check_mark: |
-| 1000015126 | :x: |
+| 1000015126 | :heavy_check_mark: |
 | 1000015159 | :heavy_check_mark: |
 | 1000015187 | :x: |
 | 1000015204 | :heavy_check_mark: |
@@ -83,10 +84,10 @@ Ultimo aggiornamento: 26-03-2023 20:13:13
 | 1000015380 | :x: |
 | 1000015425 | :heavy_check_mark: |
 | 1000015459 | :heavy_check_mark: |
-| 1000015488 | :x: |
+| 1000015488 | :heavy_check_mark: |
 | 1000015514 | :heavy_check_mark: |
 | 1000015612 | :heavy_check_mark: |
-| 1000015752 | :x: |
+| 1000015752 | :heavy_check_mark: |
 | 1000015803 | :heavy_check_mark: |
 | 1000015804 | :x: |
 | 1000015817 | :heavy_check_mark: |
@@ -114,28 +115,31 @@ Ultimo aggiornamento: 26-03-2023 20:13:13
 | 1000016215 | :heavy_check_mark: |
 | 1000016216 | :heavy_check_mark: |
 | 1000016273 | :heavy_check_mark: |
-| 1000016306 | :x: |
+| 1000016306 | :heavy_check_mark: |
 | 1000016378 | :heavy_check_mark: |
 | 1000016379 | :x: |
 | 1000016405 | :x: |
 | 1000016482 | :heavy_check_mark: |
 | 1000016550 | :heavy_check_mark: |
+| 1000016641 | :heavy_check_mark: |
 | 1000016648 | :heavy_check_mark: |
 | 1000016659 | :heavy_check_mark: |
 | 1000016666 | :heavy_check_mark: |
 | 1000016688 | :x: |
 | 1000016746 | :heavy_check_mark: |
 | 1000016768 | :heavy_check_mark: |
+| 1000016950 | :heavy_check_mark: |
 | 1000017123 | :heavy_check_mark: |
 | 1000018059 | :heavy_check_mark: |
 | 1000018087 | :heavy_check_mark: |
 | 1000018782 | :heavy_check_mark: |
 | 1000020192 | :heavy_check_mark: |
 | 1000020277 | :heavy_check_mark: |
+| 1000020516 | :heavy_check_mark: |
 | 1000021487 | :x: |
 | 1000022055 | :heavy_check_mark: |
 | 1000022201 | :heavy_check_mark: |
-| 1000022231 | :x: |
+| 1000022231 | :heavy_check_mark: |
 | 1000023441 | :heavy_check_mark: |
 | 1000023832 | :x: |
 | 1000026796 | :heavy_check_mark: |
