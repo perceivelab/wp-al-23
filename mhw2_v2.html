@@ -1,0 +1,169 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>web-programming-mhw2</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h2 id="mhw2-quiz-di-personalità">MHW2: quiz di personalità</h2>
+<p>In questo homework, dovrete creare un quiz di personalità. Ovvero:</p>
+<ul>
+<li>Scegliete un argomento.</li>
+<li>Scegliete tre domande relative all’argomento.</li>
+<li>Per ogni domanda, scegliete nove possibili risposte sotto forma di immagini.</li>
+<li>Ogni risposta corrisponde a una tra nove possibili “personalità”; alla fine del quiz, mostrate la personalità più frequente (oppure, se le scelte sono tutte diverse, mostrate la personalità corrispondente alla prima scelta).</li>
+<li>Le risposte sulla personalità sono già fornite. Non importa se non sono inerenti alle risposte scelte (ma siete comunque liberi di modificarle a piacimento).</li>
+</ul>
+<p>Il codice HTML e CSS fornito contiene già buona parte della soluzione. Dovrete modificare i seguenti file per completare l’homework:</p>
+<ul>
+<li><code>index.html</code>: Buona parte dell’HTML è già scritto, ma dovrete effettuare alcune modifiche per il layout mobile e JavaScript.</li>
+<li><code>style.css</code>: Anche qui, buona parte del CSS è già scritto in <code>provided-style.css</code>, ma dovrete applicare alcune modifiche. <strong>NON</strong> modificate <code>provided-style.css</code>, ma aggiungete le vostre regole in <code>style.css</code>.</li>
+<li><code>script.js</code>: Inserite il codice JavaScript qui.</li>
+</ul>
+<p>
+  La consegna del MHW dovrà essere effettuata sul vostro repository GitHub e dovrà includere tutti i file necessari alla visualizzazione del sito.<br>
+  <strong>Importante</strong>: i file devono essere caricati direttamente nella cartella principale del repository, non in un'unica sottocartella né
+  in file compressi (es. zip). Inoltre, il nome del repository <strong>deve essere testualmente <code>mhw2</code></strong>, non <code>MHW2</code> o <code>minihomework2</code> o qualunque altra cosa.
+</p>
+<h3 id="aspetto-e-comportamento-generale">Aspetto e comportamento generale</h3>
+<p>L’utente deve poter cliccare su ciascun immagine e selezionarla come propria risposta. Cliccare su una risposta ad una domanda per cui è già stata selezionata la risposta deve comportare il deselezionamento della risposta precedente e la seleziona della nuova risposta. Quando tutte e tre le risposte sono selezionate, non deve poter essere più possibile modificarle. A quel punto, viene visualizzata la personalità dell’utente.</p>
+<h3 id="griglia-di-scelta">1. Griglia di scelta</h3>
+<p><strong>Struttura della griglia</strong><br>
+<img src="answer_grid.png" alt=""></p>
+<ul>
+<li>Per ottenere questo layout potete usare una delle tecniche viste nell’esempio sul tic-tac-toe (ad esempio, impostando <code>flex-wrap: wrap;</code> sul contenitore).</li>
+<li>Tra ogni riga c’è uno spazio di <code>20px</code>.
+<ul>
+<li><strong>Nota</strong>: in Flexbox non viene applicato il margin collapsing.</li>
+</ul>
+</li>
+<li>Ogni risposta (flex item) ha una larghezza pari a <code>32.5%</code>, ed è distribuita su tutto lo spazio a disposizione.
+<ul>
+<li><strong>Nota</strong>: la proprietà <code>width</code> definisce l’ampiezza del <em>contenuto</em>, senza considerare padding, bordo e margine. Potete usare <code>calc()</code> per impostare correttamente la larghezza; in alternativa, potete anche vedere come funziona la proprietà <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing"><code>box-sizing</code></a>.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Risposta non selezionata</strong><br>
+<img src="answer_box.png" alt=""></p>
+<ul>
+<li>Contenitore:
+<ul>
+<li>Il colore di sfondo è <code>#f4f4f4</code>.</li>
+<li>Il bordo ha spessore  <code>1px</code> e colore <code>#dcdcdc</code>.</li>
+<li>La larghezza dell’elemento è <code>32.5%</code>.</li>
+<li>Lo spazio tra il bordo e il contenuto dell’elemento è <code>10px</code>.</li>
+</ul>
+</li>
+<li>Immagine di risposta:
+<ul>
+<li>L’immagine visualizzata deve avere dimensione quadrata.
+<ul>
+<li><strong>Suggerimento</strong>: è possibile utilizzare immagini le cui dimensioni originali non siano uguali, ma è più semplice se sono già quadrate in partenza.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Checkbox:
+<ul>
+<li>L’immagine per il checkbox non selezionato è <code>images/unchecked.png</code>.</li>
+<li>La larghezza e l’altezza dell’immagine è sono pari a <code>20px</code>.</li>
+<li><strong>Nota:</strong> Non usate un <code>&lt;input type="checkbox"&gt;</code>. Utilizzate l’immagine.</li>
+</ul>
+</li>
+</ul>
+<h3 id="layout-mobile">2. Layout mobile</h3>
+<p>Avrete bisogno di modificare il CSS e l’HTML per implementare il supporto alla vista da mobile</p>
+<p><strong>Note:</strong> non è necessario caricare la vostra pagina web sul telefono per testare il layout. Utilizzate il <em>device mode</em> di Chrome.</p>
+<ul>
+<li>Se la pagina è visualizzata da mobile:
+<ul>
+<li>Il livello di zoom della viewport deve essere del 100%, e la larghezza deve essere pari alla larghezza del dispositivo.</li>
+</ul>
+</li>
+<li>Se la larghezza dello schermo è minore di <code>700px</code>:
+<ul>
+<li>La larghezza del contenuto della pagina dovrà essere pari a  <code>95%</code> invece di <code>700px</code>.</li>
+<li>I cerchi gialli nell’header non devono apparire.</li>
+</ul>
+</li>
+<li>Se la larghezza dello schermo è minore di <code>500px</code>:
+<ul>
+<li>Ogni risposta deve avere larghezza pari al <code>49%</code> invece di <code>32.5%</code>.</li>
+</ul>
+</li>
+</ul>
+<h3 id="funzionamento-del-quiz">3. Funzionamento del quiz</h3>
+<p><strong>Suggerimento:</strong> alcuni aspetti del quiz sono simili al comportamento dell’esempio sul tic-tac-toe.</p>
+<p><strong>Attributi <code>data</code></strong></p>
+<p>Dovrete utilizzare gli attributi <code>data</code> associati alle possibili risposte (cioè, ai corrispondendi elementi HTML in <code>index.html</code>):</p>
+<ul>
+<li><code>data-choice-id</code>: Identifica il risultato del quiz per il quale questa risposta “conta” (i possibili risultati sono definiti in  <code>constants.js</code>).</li>
+<li><code>data-question-id</code>: Identifica il numero della domanda: <code>one</code>, <code>two</code> e  <code>three</code>.</li>
+</ul>
+<p>In Javascript, questi attributi saranno accessibili tramite:</p>
+<ul>
+<li>element<code>.dataset.choiceId</code></li>
+<li>element<code>.dataset.questionId</code></li>
+</ul>
+<p>Potete anche selezionare gli elementi HTML corrispondenti a certi valori degli attributi, come in questi esempi:</p>
+<ul>
+<li><code>[data-choice-id='blep']</code></li>
+<li><code>[data-question-id='two']</code></li>
+</ul>
+<hr>
+<p><strong>Selezionare una risposta</strong></p>
+<p>Quando l’utente clicca su una risposta, questa dovrebbe essere visualizzata nel seguente modo:</p>
+<p><img src="selected_box.png" alt=""></p>
+<ul>
+<li>Per l’elemento selezionato:
+<ul>
+<li>L’immagine del checkbox deve diventare <code>images/checked.png</code>.</li>
+<li>Il colore di sfondo è  <code>#cfe3ff</code>.</li>
+</ul>
+</li>
+<li>Per gli elementi non selezionati (di quella domanda):
+<ul>
+<li>Devono essere resi semi-trasparenti (opacità <code>0.6</code>).
+<ul>
+<li><strong>Suggerimento:</strong> potete utilizzare un overlay per implementare la semitrasparenza; tuttavia, dato che tutto il contenuto del <code>div</code> che contiene la risposta deve essere resto semi-trasparente, potete anche utilizzare la proprieta CSS <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/opacity"><code>opacity</code></a>.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>Modificare una risposta</strong></p>
+<p>Se l’utente non ha ancora completato il quiz (cioè, se almeno una risposta non è stata selezionata), deve poter modificare la propria risposta cliccando su un’altra immagine.</p>
+<p>Dopo che l’utente ha risposto a tutte le domande, le risposte non devono poter essere più modificate, finchè l’utente non clicchi “Ricomincia il quiz” o aggiorni la pagina.</p>
+<p><strong>Completamento del quiz</strong></p>
+<p>Dopo che l’utente ha risposta a tutte le domande, il quiz è completo.</p>
+<p>I risultati sulla personalità devono apparire in fondo alla pagina. Le informazioni da mostrare sono definite all’interno di<code>constants.js</code>.</p>
+<p>Di seguito, le specifiche di come il risultato deve essere visualizzato:</p>
+<p><img src="results_box.png" alt=""></p>
+<ul>
+<li>Bottone:
+<ul>
+<li>Il colore di sfondo è <code>#cecece</code>.</li>
+<li>Quando l’utente muove il mouse su di esso (<code>hover</code>), il colore diventa  <code>#e0e0e0</code>.
+</ul>
+</li>
+</ul>
+<p><strong>Risultato del quiz</strong></p>
+<p>Il valore di <code>data-choice-id</code> di ogni risposta è mappato ad uno dei possibili risultati definiti da <code>RESULTS_MAP</code>, all’interno di <code>constants.js</code>. Potete accedere a  <code>RESULTS_MAP</code> da dentro <code>script.js</code> perchè  <code>constants.js</code> è incluso prima di  <code>script.js</code> in <code>index.html</code>.</p>
+<p>Quando il quiz è completo, analizzate i valori di <code>data-choice-id</code> di ogni risposta. Ad esempio, se i valori sono <code>blep</code>, <code>sleepy</code> e <code>blep</code>, dovrete visualizzare il titolo e i contenuti della personalità descritta in <code>RESULTS_MAP['blep']</code>.</p>
+<p>In caso di pareggio, cioè se l’utente sceglie valori unici per <code>data-choice-id</code>, come risultato del quiz viene utilizzata la risposta alla prima domanda. Ad esempio, se i valori selezionati sono, in ordine, <code>burger</code>, <code>nerd</code> e <code>shy</code>, dovrete visualizzare i titoli e i contenuti della personalità descritta in <code>RESULTS_MAP['burger']</code>.</p>
+<p><strong>Ricominciare il quiz</strong></p>
+<p>Se l’utente clicca sul pulsante “Ricomincia il quiz”, la pagina deve tornare allo stato iniziale:</p>
+<ul>
+<li>Le risposte scelte devono tornare al loro aspetto originario.</li>
+<li>Il risultato sulla personalità deve scomparire.</li>
+<li>Le risposte devono poter essere nuovamente selezionabili.</li>
+<li>La pagina deve sembrare e comportarsi come se aveste ricaricato la pagina (senza aver effettivamente ricaricato la pagina).</li>
+</ul>
+</div>
+</body>
+
+</html>
