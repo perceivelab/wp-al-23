@@ -13,7 +13,7 @@ layout: page
 | Lezione 3    | Flexbox                          | 16 marzo 2023  | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EcDQ47LYLGtAm3AgtIyuTEMBdSkS644a6a7Yi3B2aEoHzw?e=Ygb72T) |
 | Lezione 4    | Position, Mobile                 | 21 marzo 2023  | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ET9cCOqdA5lDkchgvDTVoCgBS4ooIPW8vCStCTA7HP8new?e=r9DjFP) | [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EaHcYyUl_WdJpyiNaS5__LQBhjnpRpZrN7kM_XRqEyN60A?e=SBd89X) |
 | Lezione 5    | Supporto svolgimento MHW1        | 23 marzo 2023  | |
-| Lezione 6    | Javascript                       | 28 marzo 2023  | |
+| Lezione 6    | Javascript                       | 28 marzo 2023  | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EcmXnHf9BoBEuKcwap0rdVcBAVE_VLyi9Wpypz96SNOZ3Q?e=e6kTAl) | [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/Ed6T1tBnKGFNpj82zvBxd0wB8P0HkTwjRpbXrkrtkA6YrA?e=yE8jkJ) |
 | Lezione 7    | Javascript - DOM ed Eventi       | 30 marzo 2023  | |
 | Lezione 8    | Javascript - Modali e Fetch      | 4 aprile 2023  | |
 | Lezione 9    | Supporto svolgimento MHW2        | 6 aprile 2023  | |
