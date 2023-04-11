@@ -17,7 +17,7 @@ layout: page
 | Lezione 7    | Javascript - DOM ed Eventi       | 30 marzo 2023  | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EatJ9sOeevlBkZp3MYEJgv8BLcao9MrBB5WiWNNJZWQj-A?e=IbjsCZ) | [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EQEOKQiVOulMrjam69ktPhYBpAz8G1lgyC2cVvavyySEhQ?e=hD2g5T) |
 | Lezione 8    | Javascript - Modali e Fetch      | 4 aprile 2023  | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EdpXoZFbNn5GiDJZ8XSK3iwBKmjkZz7tluG3_EfVF0IkDA?e=Jg9nGt) + [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ESFDDSAtmjNDms5dBeB-lv8BypOtyQ9DxpmfrS4o2UPpiQ?e=TSpMlX) | [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EdPyoLeG2S9Ou7hA65dz0lUBBPvElKZi6dWYuF04WZ758g?e=9yGV0g) + [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EQFc9clA2o9Jn62kboV90xEBFoDT3lpCQYH2Lk3ham5rHg?e=3M5IqV) |
 | Lezione 9    | Supporto svolgimento MHW2        | 6 aprile 2023  | |
-| Lezione 10   | REST API                         | 11 aprile 2023 | |
+| Lezione 10   | REST API                         | 11 aprile 2023 | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EYfOSGpsoFlJs50ZrTtiUgkBiBXfGiowlr0cAhNVSrwSjg?e=S9gECW) | [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EQbxX13Uj11LioUqBkq1o2cBlmLkkuL_w_Gt_0yKJDZLdQ?e=a6dqwN) |
 | Lezione 11   | Esercitazione REST API           | 13 aprile 2023 | |
 | Lezione 12   | Supporto svolgimento MHW3        | 18 aprile 2023 | |
 | Lezione 13   | PHP                              | 20 aprile 2023 | |
