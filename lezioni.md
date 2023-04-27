@@ -21,7 +21,7 @@ layout: page
 | Lezione 11   | Esercitazione REST API           | 13 aprile 2023 | | [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EX2SP2pHOUBGpzUFGk3R10YBIzTbQLPV2Kz66oAKhHWqyQ?e=5HOGeh) + [soluzione](https://drive.google.com/file/d/1u4YFoe2kbL_KmgH0pDFOlXUQVpvr4Rg5/view?usp=sharing) |
 | Lezione 12   | Supporto svolgimento MHW3        | 18 aprile 2023 | |
 | Lezione 13   | PHP                              | 20 aprile 2023 | [Link (PHP)](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EYkUhw2ekV5OlArdFMLH-K4Bx_-tO_mRCCv6iXoPay4GSA?e=zGfWBh) + [Link (XAMPP)](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EUJCY5omGdVBvQhYA2PTlHsBtEwa40Lxh8OWFzVF00AEGw?e=efrbFb) | [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EazJPtirWkNBsEUBS8eORscB86ZdTIo2ShVKSPwfYrDqCw?e=nDTIfv) |
-| Lezione 14   | PHP: Sessioni, Database, AJAX    | 27 aprile 2022 | |
+| Lezione 14   | PHP: Sessioni, Database, AJAX    | 27 aprile 2022 | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EYBtg_xxJ7hHt2LCtD3DLA8Bwaq82y9pg6bfPPLjIl2LgQ?e=oTVuno) | [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EZ-wpXYmyvhJmSZgX-uJzkwBz6Ksq_FAM-HwrBIlFSkfTg?e=LKgr7p) |
 | Lezione 16   | Esercitazione PHP e REST API     | 9 maggio 2023  | |
 | Lezione 15   | MVC: Laravel (1)                 | 11 maggio 2023 | |
 | Lezione 16   | MVC: Laravel (2)                 | 18 maggio 2023 | |
