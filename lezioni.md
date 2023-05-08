@@ -22,9 +22,9 @@ layout: page
 | Lezione 12   | Supporto svolgimento MHW3        | 18 aprile 2023 | |
 | Lezione 13   | PHP                              | 20 aprile 2023 | [Link (PHP)](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EYkUhw2ekV5OlArdFMLH-K4Bx_-tO_mRCCv6iXoPay4GSA?e=zGfWBh) + [Link (XAMPP)](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EUJCY5omGdVBvQhYA2PTlHsBtEwa40Lxh8OWFzVF00AEGw?e=efrbFb) | [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EazJPtirWkNBsEUBS8eORscB86ZdTIo2ShVKSPwfYrDqCw?e=nDTIfv) |
 | Lezione 14   | PHP: Sessioni, Database, AJAX    | 27 aprile 2022 | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EYBtg_xxJ7hHt2LCtD3DLA8Bwaq82y9pg6bfPPLjIl2LgQ?e=oTVuno) | [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EZ-wpXYmyvhJmSZgX-uJzkwBz6Ksq_FAM-HwrBIlFSkfTg?e=LKgr7p) |
-| Lezione 16   | Esercitazione PHP e REST API     | 9 maggio 2023  | |
-| Lezione 15   | MVC: Laravel (1)                 | 11 maggio 2023 | |
-| Lezione 16   | MVC: Laravel (2)                 | 18 maggio 2023 | |
-| Lezione 17   | Esercitazione Laravel            | 23 maggio 2023 | |
-| Lezione 18   | Seminario su Node.js             | 25 maggio 2023 | |
-| Lezione 19   | Seminario su Node.js             | 30 maggio 2023 | |
+| Lezione 15   | PHP: Sessioni, Database, AJAX    | 9 maggio 2023  |
+| Lezione 16   | Esercitazione PHP e REST API     | 11 maggio 2023 | |
+| Lezione 17   | MVC: Laravel (1)                 | 16 maggio 2023 | |
+| Lezione 18   | MVC: Laravel (2)                 | 23 maggio 2023 | |
+| Lezione 19   | Esercitazione Laravel            | 25 maggio 2023 | |
+| Lezione 20   | Seminario su Node.js             | 30 maggio 2023 | |
