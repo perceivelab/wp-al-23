@@ -26,5 +26,6 @@ layout: page
 | Lezione 16   | Esercitazione PHP e REST API     | 11 maggio 2023 | | [Link](https://drive.google.com/file/d/1gF_6bmg4vOW-2pNwwo9qrj_WpEi2TIlg/view?usp=sharing) |
 | Lezione 17   | MVC: Laravel (1)                 | 16 maggio 2023 | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ESC2YEtQ5apMg0PsYLqCvWMBIWFQeNVhcZj5p5htVX45MA?e=f5n162) |
 | Lezione 18   | MVC: Laravel (2)                 | 23 maggio 2023 | |
-| Lezione 19   | Esercitazione Laravel            | 25 maggio 2023 | |
+| Lezione 19   | Esercitazione Laravel            | 25 maggio 2023 | | [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/ESCllKQurLhLs3mVN6ml-YYBuvQopJ11H4zJyghNLlPMCg?e=4BBW2Y) |
+|              | Tutorial porting Laravel         |                | | [Codice](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EVL9-SpQPqJMmV_8ejwZTQsBJC3u-UStAEngCJnZ5ALgsw?e=fE0vdu) + [Video](https://studentiunict-my.sharepoint.com/:v:/g/personal/simone_palazzo_unict_it/EbxxEG7hXOlMtsddYenFni0BZw9OInIPDgTBtPf1xWjjmA?e=owRmZm) |
 | Lezione 20   | Seminario su Node.js             | 30 maggio 2023 | |
