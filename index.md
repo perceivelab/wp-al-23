@@ -24,7 +24,6 @@ Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli a
 Prenotazione agli appelli per la discussione degli homework: [link](https://calendly.com/simone-palazzo/esami-wp-2023)
 
 ## Progetto unico
-Specifiche del progetto unico: [link]()
 
 Gli studenti che non hanno partecipato agli homework dovranno presentare un progetto unico le cui specifiche sono
 disponibili a questo [link](https://drive.google.com/file/d/108HxBicJ0u5Dils_82hDVs94bTGHVvOI/view?usp=sharing).
