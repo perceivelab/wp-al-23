@@ -30,7 +30,7 @@ Gli studenti che non hanno partecipato agli homework dovranno presentare un prog
 disponibili a questo [link](https://drive.google.com/file/d/108HxBicJ0u5Dils_82hDVs94bTGHVvOI/view?usp=sharing).
 
 Le date per la presentazione dei progetti unici sono
-esclusivamente quelle degli appelli previsti da calendario. **In questo caso è necessaria la prenotazione attraverso il portale studenti.**
+esclusivamente quelle degli appelli previsti da calendario. È possibile prenotarsi tramite lo stesso [link](https://calendly.com/simone-palazzo/esami-wp-2023) per la discussione degli homework,
 
 # CONTATTI
 
